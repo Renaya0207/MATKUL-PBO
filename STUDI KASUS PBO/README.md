@@ -25,11 +25,11 @@ Program ini dibuat untuk:
 
 # File Kode 
 
-| File           | Topik                                                           |
-| -------------- | --------------------------------------------------------------- |
-| `solid.py`     | Implementasi sistem pemesanan makanan menggunakan prinsip SOLID |
-| `non_solid.py` | Contoh sistem yang tidak menerapkan prinsip SOLID               |
-| `README.md`    | Penjelasan materi, prinsip SOLID, dan dokumentasi program       |
+| File           | Topik                                                                     |
+| -------------- | ---------------------------------------------------------------           |
+| `solid.py`     | Implementasi sistem pemesanan makanan menggunakan prinsip SOLID           |
+| `non_solid.py` | Contoh sistem yang tidak menerapkan prinsip SOLID                         |
+| `README.md`    | Tujuan dan Penjelasan program, prinsip SOLID, dan Perbandingan program    |
 
 
 # Penjelasan Prinsip SOLID pada Program
