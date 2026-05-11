@@ -50,7 +50,7 @@ Manfaat:
 * Mudah diuji
 * Mudah digunakan kembali
 
----
+
 
 ## 2. Open/Closed Principle (OCP)
 
@@ -66,7 +66,6 @@ class COD(PaymentMethod):
         print(f"Pembayaran Rp {amount} menggunakan COD")
 ```
 
----
 
 ## 3. Liskov Substitution Principle (LSP)
 
@@ -80,7 +79,7 @@ Contoh:
 
 Semua dapat digunakan sebagai `PaymentMethod`.
 
----
+
 
 ## 4. Interface Segregation Principle (ISP)
 
@@ -95,7 +94,7 @@ def pay(self, amount):
 
 Tidak ada method yang tidak diperlukan.
 
----
+
 
 ## 5. Dependency Inversion Principle (DIP)
 
@@ -112,7 +111,6 @@ class OrderService:
 ```
 
 
----
 
 # Perbandingan Program SOLID dan Non-SOLID
 
@@ -124,7 +122,6 @@ class OrderService:
 | Reusability   | Tinggi               | Rendah                 |
 | Fleksibilitas | Tinggi               | Rendah                 |
 
----
 
 
 # Contoh Output
@@ -146,12 +143,12 @@ Notifikasi pesanan berhasil dikirim
 | NIM        | Nama               |
 | ---------- | ------------------ |
 | 2409106002 | Renaya Putri Alika |
-| 2409106008 | Dewi Astuti        |
+| 2409106007 | Dewi Astuti        |
 | 2409106021 | Rusdiana           |
 | 2409106022 | Ayu Azzahra Alwi   |
 | 2409106024 | Angelina Agustin   |
 
----
+
 
 # Kesimpulan
 
