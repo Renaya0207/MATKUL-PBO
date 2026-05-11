@@ -145,7 +145,7 @@ Notifikasi pesanan berhasil dikirim
 | 2409106002 | Renaya Putri Alika      |
 | 2409106007 | Dewi Astuti             |
 | 2409106021 | Rusdiana                |
-| 2409106022 | Ayu Azzahra Alwi        |
+| 2409106022 | Ayu Azzhahrah Alwi      |
 | 2409106024 | Angelina Augustin Umami |
 
 
@@ -157,6 +157,6 @@ Penerapan prinsip SOLID membuat program menjadi lebih:
 * Terstruktur
 * Fleksibel
 * Mudah dikembangkan
-* Mudah dipelihara
+* Mudah dipahami
 
 Sedangkan program yang tidak menerapkan SOLID cenderung memiliki banyak tanggung jawab dalam satu class sehingga sulit dikembangkan dan dirawat ketika sistem semakin besar.
