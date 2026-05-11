@@ -140,13 +140,13 @@ Notifikasi pesanan berhasil dikirim
 
 # Anggota Kelompok
 
-| NIM        | Nama               |
-| ---------- | ------------------ |
-| 2409106002 | Renaya Putri Alika |
-| 2409106007 | Dewi Astuti        |
-| 2409106021 | Rusdiana           |
-| 2409106022 | Ayu Azzahra Alwi   |
-| 2409106024 | Angelina Agustin   |
+| NIM        | Nama                    |
+| ---------- | ------------------      |
+| 2409106002 | Renaya Putri Alika      |
+| 2409106007 | Dewi Astuti             |
+| 2409106021 | Rusdiana                |
+| 2409106022 | Ayu Azzahra Alwi        |
+| 2409106024 | Angelina Augustin Umami |
 
 
 
