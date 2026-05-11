@@ -1,15 +1,15 @@
 ## Studi Kasus: Sistem Pemesanan Makanan Online
 
-# Tujuan Pembelajaran
+# Tujuan Program
+Program ini dibuat untuk:
+* Mengimplementasikan konsep Object Oriented Programming (OOP) menggunakan bahasa Python
+* Memahami penerapan lima prinsip SOLID dalam pengembangan software
+* Membandingkan struktur program yang menerapkan SOLID dan yang tidak menerapkan SOLID
+* Menunjukkan bagaimana prinsip SOLID membuat kode lebih rapi, fleksibel, dan mudah dikembangkan
+* Melatih kemampuan analisis terhadap desain program yang baik dan buruk
+* Mensimulasikan sistem pemesanan makanan online dengan beberapa metode pembayaran
+* Memahami pentingnya pemisahan tanggung jawab pada setiap class dalam program
 
-* Menjelaskan lima prinsip SOLID dan pentingnya dalam desain OOP
-* Menerapkan Single Responsibility Principle untuk memisahkan tanggung jawab class
-* Menerapkan Open/Closed Principle menggunakan inheritance dan abstraction
-* Memahami Liskov Substitution Principle pada class turunan
-* Menerapkan Interface Segregation Principle dengan interface sederhana
-* Menerapkan Dependency Inversion Principle menggunakan dependency injection
-* Mengenali code yang melanggar SOLID dan melakukan refactor
-* Membandingkan program SOLID dan non-SOLID pada studi kasus pemesanan makanan online
 
 # Ringkasan 
 
